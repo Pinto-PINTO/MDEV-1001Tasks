@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 150px;
+    font-weight: 500;
+    font-family:'Courier New', Courier, monospace
+}
+
+p {
+    font-size: 30px;
+    font-weight: 500;
+    font-family:'Courier New', Courier, monospace
+}
+
+.centered {
+    text-align: center;
+}
